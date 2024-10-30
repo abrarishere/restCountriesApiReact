@@ -33,8 +33,8 @@ Note: This screenshot is taken at 1366px width. The design is responsive and wil
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://restful-countries-d9182b8faff5.herokuapp.com/](https://restful-countries-d9182b8faff5.herokuapp.com/)
+- Solution URL: [https://github.com/abrarishere/restCountriesApiReact/](https://github.com/abrarishere/restCountriesApiReact/)
 
 ## My process
 
